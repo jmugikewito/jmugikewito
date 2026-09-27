@@ -43,4 +43,4 @@ He participado como arquitecto y líder técnico en la digitalización y automat
 Abierto a conversar sobre innovación tecnológica, arquitectura de software orientada a procesos corporativos y los próximos desafíos en el ecosistema móvil y B2B.
 
 * **LinkedIn:** [linkedin.com/in/kevinleandrovc](https://www.linkedin.com/in/kevinleandrovc/)
-* **Email:** [vchavarryk@gmail.com](mailto:vchavarryk@gmail.com)
+* **Email:** [devdad.pluton@gmail.com](mailto:devdad.pluton@gmail.com)
